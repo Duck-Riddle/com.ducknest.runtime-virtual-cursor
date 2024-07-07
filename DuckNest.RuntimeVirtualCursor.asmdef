@@ -1,0 +1,14 @@
+{
+    "name": "DuckNest.RuntimeVirtualCursor",
+    "rootNamespace": "DuckNest.RuntimeVirtualCursor",
+    "references": ["GUID:c73cdf740aaf2bb44aff366b3ca92305","GUID:ad63ed8ea95f4e247a8c256082f383d9","GUID:6c09e7ec84fe02044a64973a83805311"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

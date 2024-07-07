@@ -1,0 +1,11 @@
+{
+  "name": "com.ducknest.runtime-virtual-cursor",
+  "version": "0.0.0",
+  "displayName": "Runtime Virtual Cursor",
+  "unity": "2024.1",
+  "author": "DuckRiddle",
+  "dependencies": {
+    "com.ducknest.core": "0.0.0"
+  },
+  "description": "Runtime Virtual Cursor to support Gamepads and touch pads"
+}
